@@ -1,0 +1,22 @@
+{
+  "name": "paintlog",
+  "version": "0.1.0",
+  "description": "Simple color logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francismarcus/paintlog.git"
+  },
+  "author": "Marcus Francis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francismarcus/paintlog/issues"
+  },
+  "homepage": "https://github.com/francismarcus/paintlog#readme",
+  "dependencies": {
+    "chalk": "4.1.0"
+  }
+}
