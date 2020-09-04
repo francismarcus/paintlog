@@ -8,7 +8,7 @@ const chalks = {
 	event: chalk.magenta('event: ')
 };
 
-exports.log = {
+exports = {
 	event: (...message) => {
 		console.log(chalks.event, ...message);
 	},
